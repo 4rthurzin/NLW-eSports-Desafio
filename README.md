@@ -6,7 +6,7 @@
 
 Este projeto foi construído no evento Next Level Week da Rocketseat. Foi um desafio extra para aqueles que tiveram êxito no projeto anterior  
 
-[🔎 Clique aqui para acessar](https://4rthurzin.github.io/NLW-eSports-Desafio-Extra/)
+[🔎 Clique aqui para acessar](https://4rthurzin.github.io/NLW-eSports-Desafio/)
 
 # 🛠 Tecnologias Utilizadas
 
